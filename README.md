@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My Name is Uma and,I am from Hyderabad</p>
+<p align="left">I am Uma.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">ABOUT ME</h2>
 
 ###
 
