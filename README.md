@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ My Qualification is M.C.A<br>📚 I'm currently learning  Data Analytics.<br>🎯 Goals: I want to get job in IT<br>🎲 Skills Known Python ,SQL ,PowerBI</p>
+<p align="left">✨ My Qualification is M.C.A<br>📚 I'm currently learning  Data Analytics.<br>🎲 Skills Known Python ,SQL ,PowerBI</p>
 
 ###
 
