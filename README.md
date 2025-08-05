@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My is Uma and I'm a  Home maker, from Hyderabad</p>
+<p align="left">My Name is Uma and,I am from Hyderabad</p>
 
 ###
 
